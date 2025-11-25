@@ -22,8 +22,8 @@ Una calculadora funcional desarrollada con PyQt5 y diseñada con QTDesigner. Per
 
 1. Clona el repositorio:
    ```bash
-   git clone [https://github.com/tu-usuario/calculadora-qt.git](https://github.com/tu-usuario/calculadora-qt.git)
-   cd calculadora-qt
+   git clone https://github.com/jdgonzalez03/simple-calculator.git
+   cd simple-calculator
    ```
 
 2. Crea y activa el entorno virtual:
