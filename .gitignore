@@ -1,0 +1,8 @@
+# Entorno virtual
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos del sistema
+.DS_Store
