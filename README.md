@@ -1,7 +1,5 @@
 # Calculadora con PyQt5
 
-![Calculadora](assets/calculator-icon.png)  <!-- Si tienes un ícono, puedes agregarlo -->
-
 Una calculadora funcional desarrollada con PyQt5 y diseñada con QTDesigner. Permite realizar operaciones matemáticas básicas y muestra los resultados con formato de 2 decimales.
 
 ## Características
