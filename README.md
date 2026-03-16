@@ -42,9 +42,11 @@ Una calculadora funcional desarrollada con PyQt5 y diseñada con QTDesigner. Per
 
 ## Estructura del Proyecto
 
+```bash
 calculadora-qt/
 ├── assets/           # Recursos gráficos
 │   └── gui.py        # Código generado por QTDesigner
 ├── main.py           # Lógica principal de la aplicación
 ├── requirements.txt  # Dependencias del proyecto
 └── README.md         # Este archivo
+```
